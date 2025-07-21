@@ -3,7 +3,6 @@
 **`Desenvolvedor FullStack`**
 
 Me chamo Vitor, tenho 28 anos e sou apaixonado por tecnologia. Sou programador full stack, formado em Análise e Desenvolvimento de Sistemas pela Estácio. Tenho experiência desenvolvendo projetos utilizando C# (especialmente com Unity), Node.js, React.js e Flutter.
-Busco sempre me atualizar e aprender novas tecnologias, pois acredito que o conhecimento é a base para criar soluções inovadoras. Compartilho minhas experiências e projetos com a comunidade, ajudando outros desenvolvedores a evoluírem na área de tecnologia.
 
 <p align="left">
     <a href="https://github.com/gwtovitor?tab=repositories&sort=stargazers">

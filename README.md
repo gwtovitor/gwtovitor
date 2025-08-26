@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vitor, tenho 28 anos e sou apaixonado por tecnologia. Sou programador full stack, formado em Análise e Desenvolvimento de Sistemas pela Estácio. Tenho experiência desenvolvendo projetos utilizando  Node.js, React.js, React Native, C# (Unity).
+Me chamo Vitor, tenho 28 anos, sou programador full stack, formado em Análise e Desenvolvimento de Sistemas. Tenho vasta experiência desenvolvendo projetos utilizando  Node.js(typescript), React.js, React Native, C# (Unity).
 
 <p align="left">
     <a href="https://github.com/gwtovitor?tab=repositories&sort=stargazers">
